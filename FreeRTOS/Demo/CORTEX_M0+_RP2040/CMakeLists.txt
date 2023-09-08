@@ -9,4 +9,5 @@ include(pico_sdk_import.cmake)
 PROJECT(examples)
 
 add_subdirectory(OnEitherCore)
+add_subdirectory(./src)
 #add_subdirectory(Standard)
